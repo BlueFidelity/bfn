@@ -1,0 +1,21 @@
+{
+  "name": "bfn",
+  "version": "1.0.2",
+  "description": "Boot Fidelity NodeJS-CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "author": "Blue Fidelity Inc. (https://www.bluefidelity.com/)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BlueFidelity/bfn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlueFidelity/bfn/issues"
+  },
+  "dependencies": {
+    "bfn-proxy": "^1.0.0"
+  }
+}
