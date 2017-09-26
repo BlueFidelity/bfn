@@ -1,6 +1,6 @@
 {
   "name": "bfn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Boot Fidelity NodeJS-CLI",
   "main": "index.js",
   "scripts": {
