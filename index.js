@@ -1,2 +1,2 @@
-'use strict';
-exports.proxy = require('bfn-proxy');
+'use strict'
+exports.proxy = require('bfn-proxy')
