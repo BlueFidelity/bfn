@@ -1,17 +1,11 @@
 {
   "name": "bfn",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Boot Fidelity NodeJS-CLI",
   "main": "index.js",
   "author": "Blue Fidelity Inc. (https://www.bluefidelity.com/)",
   "license": "MIT",
   "homepage": "https://www.bluefidelity.com/",
-  "maintainers": [
-    {
-      "email": "ouellettebrand@gmail.com",
-      "name": "brandouellette"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/BlueFidelity/bfn.git"
